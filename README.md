@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Most of my code snippets/microprojects are here. I also have a [Gitlab](https://gitlab.com/Chronum94).
 <!--
 **Chronum94/Chronum94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
